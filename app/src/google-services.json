@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135557055910",
+    "project_id": "tourist-final",
+    "storage_bucket": "tourist-final.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135557055910:android:84ce1e250a5914a664bb67",
+        "android_client_info": {
+          "package_name": "com.example.touristfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgAA5JFmWTSbk30ZcVem7sxMTO7GXHZ5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
